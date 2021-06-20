@@ -1,5 +1,5 @@
 {
-	"name": "deutch-umlauts",
+	"name": "deutsch-umlauts",
 	"displayName": "",
 	"description": "allow me to type in german",
 	"version": "0.0.1",
@@ -10,13 +10,13 @@
 		"Other"
 	],
 	"activationEvents": [
-		"onCommand:deutch-umlauts.helloWorld"
+		"onCommand:deutsch-umlauts.helloWorld"
 	],
 	"main": "./dist/extension.js",
 	"contributes": {
 		"commands": [
 			{
-				"command": "deutch-umlauts.helloWorld",
+				"command": "deutsch-umlauts.helloWorld",
 				"title": "Hello World"
 			}
 		]
